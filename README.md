@@ -1,11 +1,19 @@
-# Layout-Exercise-Project
-This is the first project about layouts Upchool gave us. We should make a few desings close to original. Also, we need to create style and font files.
-(After the design was made, the screen sizes were rearranged according to the emulator in the project.)
+# Layout Exercise Project
 
-Here are the layout designs i did.
+**Case:** Tasarım geliştirme süreçleri bitmiş yeni bir projemiz var sizden sadece layout oluşturmanız bekleniyor.  Bu görev için sizi seçtik yapmanız gereken görsele benzer dizayn edebilmeniz şu aşamada yeterli olacaktır.
 
-![myLayouts](https://user-images.githubusercontent.com/61115571/163567892-0eb88d14-85fb-4c09-a3d1-b944be0d1262.png)
+**Tasks:** 
 
-Here are the original designs.
+1- Aşağıdaki linkte bulunan tasarım dosyasını indirmek ve figma import etmek,
 
-![designLayout](https://user-images.githubusercontent.com/61115571/163568430-10b4456c-bbb0-4d3e-a1b7-4540e57c0ae7.png)
+2- Layout figmaya eklediğiniz çalışmaya en uygun görünümü sağlaması gerekmektedir.
+
+3- Style kullanımı ve çalışmaya uygun font seçiminizi yapmanız gerekmektedir. 
+
+4- Çalışmanızı kendi github hesabınızda public repo link olarak iletmeniz talep ediliyor. Repo readme boş olmamalı projenizi anlatan ingilizce kısa açıklama ve ss'leriniz ekli olmalıdır. Readme alanı boş olması halinde projeniz değerlendirmeye alınmayacaktır.
+
+**Sources:**  
+
+
+- https://www.sketchappsources.com/free-source/4762-design-courses-app-sketch-freebie-resource.html
+- https://www.figma.com/
