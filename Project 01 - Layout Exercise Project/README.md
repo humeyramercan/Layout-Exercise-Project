@@ -2,6 +2,7 @@
 This is the first project about layouts Upchool gave us. 
 
 I made a few desings close to original by creating style and font files. Also i applied data binding into this project.
+
 (After the design was made, the screen sizes were rearranged according to the emulator in the project.)
 
 Here are the layout designs i did.
